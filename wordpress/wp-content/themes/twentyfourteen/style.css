@@ -112,7 +112,8 @@ textarea {
 }
 
 body {
-	background: red;
+	background: pink;
+border 5px solid red;
 }
 
 a {
